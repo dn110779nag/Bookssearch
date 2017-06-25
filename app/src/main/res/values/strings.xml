@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Books search</string>
+    <string name="search_hint">input book title</string>
+    <string name="go_btn">go</string>
+    <string name="no_inet">No internet connection</string>
+    <string name="no_data">No data</string>
+    <string name="input_query">input query for search</string>
+</resources>
